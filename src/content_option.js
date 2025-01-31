@@ -3,7 +3,7 @@ import { FaInstagram } from "react-icons/fa";
 const logotext = "Nida";
 const meta = {
     title: "Nida Batool",
-    description: "I’m Nida Full stack devloper,currently working in Pakistan",
+    description: "I’m Nida Frontend devloper,currently working in Pakistan",
 };
 
 const introdata = {
@@ -11,7 +11,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I develop React websites",
-        third: "I develop MERN-Stack Websites",
+        third: "I develop Frontend Websites",
     },
     description: "I create professional websites with a focus on functionality and user experience. Let's build something amazing together!",
     your_img_url: "nida.jpeg",
@@ -19,7 +19,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: "I am a full-stack web developer with expertise in both frontend and backend technologies. I specialize in React.js for building responsive designs and have strong backend skills using Node.js, Express.js, and MongoDB. I also have experience in UI/UX design for both web and mobile applications.",
+    aboutme: "As a Frontend Developer, I specialize in building modern, responsive, and visually appealing web applications using React.js and Tailwind CSS. My expertise in Figma and Adobe XD allows me to design intuitive user interfaces that enhance user experience. I focus on writing clean, maintainable code and implementing smooth animations with GSAP to create engaging interactions. With a strong understanding of responsive design, I ensure seamless performance across all devices",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -47,15 +47,15 @@ const skills = [{
         value: 85,
     },
     {
-        name: "Node",
+        name: "Tailwind",
         value: 80,
     },
     {
-        name: "Mongodb",
+        name: "Figma",
         value: 60,
     },
     {
-        name: "MERN",
+        name: "Adobe",
         value: 85,
     },
 ];
@@ -69,8 +69,8 @@ const services = [{
         description: "I have expertise in frontend development, focusing on creating responsive websites using React.js. I build interactive user interfaces that adapt seamlessly across devices",
     },
     {
-        title: "Backend",
-        description: " I have experience in backend development using Node.js and Express.js for building server-side applications. I also work with MongoDB to manage and store data efficiently.",
+        title: "Website Redesign & Optimization",
+        description: "I enhance existing websites by improving their UI/UX, making them modern, responsive, and visually appealing. I fix design issues, optimize speed for better performance, and ensure SEO-friendly code for higher rankings.",
     },
 ];
 
